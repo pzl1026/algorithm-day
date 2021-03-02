@@ -1,4 +1,4 @@
-// 最长升序子序列
+// 最长升序子序列(难)
 // 还有一种动态规划方法
 function lengthOfLis (arr) {
   if (arr.length <= 1) {
